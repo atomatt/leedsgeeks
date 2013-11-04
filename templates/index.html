@@ -16,7 +16,12 @@
                 {{range .Groups}}
                 <div class="group">
                     <div class="inner">
-                        <h1 class="group-name">{{.Name}}</h1>
+                        <div class="header">
+                            <h1 class="group-name">{{.Name}}</h1>
+                            {{if .Schedule}}
+                            <p class="group-schedule">{{.Schedule}}
+                            {{end}}
+                        </div>
                         {{if .Description}}
                         <p class="group-description">{{.Description}}
                         {{end}}

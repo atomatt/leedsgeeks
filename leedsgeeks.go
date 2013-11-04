@@ -24,6 +24,7 @@ type Config struct {
 type Group struct {
 	Name        string
 	Description string
+	Schedule    string
 	Links       []Link
 }
 
