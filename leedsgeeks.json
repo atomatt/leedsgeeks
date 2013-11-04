@@ -28,6 +28,8 @@
         },
         {
             "Name": "Leeds Sharp",
+            "Description": "A code club for developers using Microsoft technologies.",
+            "Schedule": "Last thursday of the month",
             "Links": [
                 {"Label": "Web", "URL": "http://www.leeds-sharp.org/"}
             ]
