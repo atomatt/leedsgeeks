@@ -2,12 +2,14 @@
     "Groups": [
         {
             "Name": "Leeds JS",
+            "Description": "JavaScript user group in the Leeds, West Yorkshire area.",
             "Links": [
                 {"Label": "Web", "URL": "http://leedsjs.org/"}
             ]
         },
         {
-            "Name": "WYPy (Python)",
+            "Name": "West Yorkshire Python User Group",
+            "Description": "The West Yorkshire Python User Group (WYPy) have been meeting monthly since 2007. Our meetings are free, and usually include at least one talk, as well as a trip to the pub.",
             "Links": [
                 {"Label": "Web", "URL": "http://wypy.org.uk/"},
                 {"Label": "Twitter", "URL": "https://twitter.com/wypython", "LinkText": "@WYPython"}
@@ -15,8 +17,10 @@
         },
         {
             "Name": "Leeds PHP",
+            "Description": "A small bunch of passionate PHP Developers based in the Leeds and surrounding areas, who meet up once a month to discuss all things PHP.",
             "Links": [
-                {"Label": "Web", "URL": "http://leedsphp.org/"}
+                {"Label": "Web", "URL": "http://leedsphp.org/"},
+                {"Label": "Twitter", "URL": "https://twitter.com/leedsphp", "LinkText": "@leedsphp"}
             ]
         },
         {
