@@ -88,6 +88,14 @@
             "Links": [
                 {"Label": "Web", "URL": "http://www.meetup.com/Leeds-Riak/"}
             ]
+        },
+        {
+            "Name": "Leeds Hackspace",
+            "Description": "A Maker and Hacker Space in Leeds.",
+            "Links": [
+                {"Label": "Web", "URL": "http://leedshackspace.org.uk/"},
+                {"Label": "Twitter", "URL": "https://twitter.com/leedshackspace", "LinkText": "@leedshackspace"}
+            ]
         }
     ]
 }
