@@ -1,5 +1,6 @@
 body {
     background-color: #fbfbfb;
+    padding-bottom: 20px;
     padding-top: 30px;
 }
 
@@ -38,4 +39,9 @@ body {
 
 .group .inner :first-child {
     margin-top: 0;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 20px;
 }

@@ -16,7 +16,9 @@ var (
 )
 
 type Config struct {
-	Groups []Group
+	Maintainer    string
+	RepositoryURL string
+	Groups        []Group
 }
 
 type Group struct {

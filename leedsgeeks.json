@@ -1,4 +1,6 @@
 {
+    "Maintainer": "matt.goodall@gmail.com",
+    "RepositoryURL": "http://github.com/emgee/leedsgeeks",
     "Groups": [
         {
             "Name": "Leeds JS",
