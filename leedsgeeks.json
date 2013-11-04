@@ -12,6 +12,7 @@
         {
             "Name": "West Yorkshire Python User Group",
             "Description": "The West Yorkshire Python User Group (WYPy) have been meeting monthly since 2007. Our meetings are free, and usually include at least one talk, as well as a trip to the pub.",
+            "Schedule": "Second Thursday of every month",
             "Links": [
                 {"Label": "Web", "URL": "http://wypy.org.uk/"},
                 {"Label": "Twitter", "URL": "https://twitter.com/wypython", "LinkText": "@WYPython"}
@@ -39,14 +40,18 @@
         },
         {
             "Name": "Leeds Data Thing",
+            "Description": "Leeds Data Thing is a group for like-minded people working in Leeds to talk about data, network, share ideas, learn a few things and enjoy a beer or two!",
             "Links": [
-                {"Label": "Web", "URL": "http://www.leedsdatathing.co.uk/"}
+                {"Label": "Web", "URL": "http://www.leedsdatathing.co.uk/"},
+                {"Label": "Twitter", "URL": "https://twitter.com/leedsdatathing", "LinkText": "@leedsdatathing"}
             ]
         },
         {
             "Name": "Leeds DevOps",
+            "Description": "A hub for everyone who lives, breathes and occasionally sleeps DevOps in Leeds and the surrounding area.",
             "Links": [
-                {"Label": "Web", "URL": "http://www.leedsdevops.org.uk/"}
+                {"Label": "Web", "URL": "http://www.leedsdevops.org.uk/"},
+                {"Label": "Twitter", "URL": "http://twitter.com/@leedsdevops", "LinkText": "@leedsdevops"}
             ]
         },
         {
@@ -69,8 +74,17 @@
         },
         {
             "Name": "NodeUpNorth",
+            "Description": "Home of a Node.js user group that meets in Leeds.",
+            "Schedule": "Last Wednesday of every month",
             "Links": [
                 {"Label": "Web", "URL": "http://www.nodeupnorth.co.uk/"}
+            ]
+        },
+        {
+            "Name": "Leeds Riak",
+            "Description": "A Leeds based meet-Up for those interested in Riak, distributed systems, NoSql, and app development.",
+            "Links": [
+                {"Label": "Web", "URL": "http://www.meetup.com/Leeds-Riak/"}
             ]
         }
     ]
