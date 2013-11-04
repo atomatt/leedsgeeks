@@ -20,8 +20,9 @@ type Config struct {
 }
 
 type Group struct {
-	Name  string
-	Links []Link
+	Name        string
+	Description string
+	Links       []Link
 }
 
 type Link struct {
