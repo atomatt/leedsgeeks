@@ -7,16 +7,31 @@ body {
 .group {
     background-color: #ffffff;
     border: 1px solid #f5f5f5;
-    display: inline-block;
     margin-bottom: 20px;
-    margin-right: 10px;
     padding: 19px;
     vertical-align: top;
-    width: 370px;
 }
 
-.group:nth-child(3n) {
-    margin-right: 0;
+@media (min-width: 768px) {
+    .group {
+        display: inline-block;
+        margin-right: 10px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .group { width: 353px; }
+    .group:nth-child(2n) { margin-right: 0; }
+}
+
+@media (min-width: 992px) and (max-width: 1169px) {
+    .group { width: 304px; }
+    .group:nth-child(3n) { margin-right: 0; }
+}
+
+@media (min-width: 1170px) {
+    .group { width: 370px; }
+    .group:nth-child(3n) { margin-right: 0; }
 }
 
 .group .header {
