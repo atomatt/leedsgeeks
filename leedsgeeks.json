@@ -3,41 +3,15 @@
     "RepositoryURL": "http://github.com/emgee/leedsgeeks",
     "Groups": [
         {
-            "Name": "Leeds JS",
-            "Description": "JavaScript user group in the Leeds, West Yorkshire area.",
-            "Links": [
-                {"Label": "Web", "URL": "http://leedsjs.org/"}
-            ]
-        },
-        {
-            "Name": "West Yorkshire Python User Group",
-            "Description": "The West Yorkshire Python User Group (WYPy) have been meeting monthly since 2007. Our meetings are free, and usually include at least one talk, as well as a trip to the pub.",
-            "Schedule": "Second Thursday of every month",
-            "Links": [
-                {"Label": "Web", "URL": "http://wypy.org.uk/"},
-                {"Label": "Twitter", "URL": "https://twitter.com/wypython", "LinkText": "@WYPython"}
-            ]
-        },
-        {
-            "Name": "Leeds PHP",
-            "Description": "A small bunch of passionate PHP Developers based in the Leeds and surrounding areas, who meet up once a month to discuss all things PHP.",
-            "Links": [
-                {"Label": "Web", "URL": "http://leedsphp.org/"},
-                {"Label": "Twitter", "URL": "https://twitter.com/leedsphp", "LinkText": "@leedsphp"}
-            ]
-        },
-        {
-            "Name": "Leeds Sharp",
-            "Description": "A code club for developers using Microsoft technologies.",
-            "Schedule": "Last thursday of the month",
-            "Links": [
-                {"Label": "Web", "URL": "http://www.leeds-sharp.org/"}
-            ]
-        },
-        {
             "Name": "Agile Yorkshire",
             "Links": [
                 {"Label": "Web", "URL": "http://www.agileyorkshire.org/"}
+            ]
+        },
+        {
+            "Name": "GeekUp Leeds",
+            "Links": [
+                {"Label": "Web", "URL": "http://geekup.org/"}
             ]
         },
         {
@@ -63,15 +37,41 @@
             ]
         },
         {
-            "Name": "The Yorkshire Geek Alliance",
+            "Name": "Leeds Hackspace",
+            "Description": "A Maker and Hacker Space in Leeds.",
             "Links": [
-                {"Label": "Web", "URL": "http://www.meetup.com/The-Yorkshire-Geek-Alliance/"}
+                {"Label": "Web", "URL": "http://leedshackspace.org.uk/"},
+                {"Label": "Twitter", "URL": "https://twitter.com/leedshackspace", "LinkText": "@leedshackspace"}
             ]
         },
         {
-            "Name": "GeekUp Leeds",
+            "Name": "Leeds JS",
+            "Description": "JavaScript user group in the Leeds, West Yorkshire area.",
             "Links": [
-                {"Label": "Web", "URL": "http://geekup.org/"}
+                {"Label": "Web", "URL": "http://leedsjs.org/"}
+            ]
+        },
+        {
+            "Name": "Leeds PHP",
+            "Description": "A small bunch of passionate PHP Developers based in the Leeds and surrounding areas, who meet up once a month to discuss all things PHP.",
+            "Links": [
+                {"Label": "Web", "URL": "http://leedsphp.org/"},
+                {"Label": "Twitter", "URL": "https://twitter.com/leedsphp", "LinkText": "@leedsphp"}
+            ]
+        },
+        {
+            "Name": "Leeds Riak",
+            "Description": "A Leeds based meet-Up for those interested in Riak, distributed systems, NoSql, and app development.",
+            "Links": [
+                {"Label": "Web", "URL": "http://www.meetup.com/Leeds-Riak/"}
+            ]
+        },
+        {
+            "Name": "Leeds Sharp",
+            "Description": "A code club for developers using Microsoft technologies.",
+            "Schedule": "Last thursday of the month",
+            "Links": [
+                {"Label": "Web", "URL": "http://www.leeds-sharp.org/"}
             ]
         },
         {
@@ -83,18 +83,18 @@
             ]
         },
         {
-            "Name": "Leeds Riak",
-            "Description": "A Leeds based meet-Up for those interested in Riak, distributed systems, NoSql, and app development.",
+            "Name": "West Yorkshire Python User Group",
+            "Description": "The West Yorkshire Python User Group (WYPy) have been meeting monthly since 2007. Our meetings are free, and usually include at least one talk, as well as a trip to the pub.",
+            "Schedule": "Second Thursday of every month",
             "Links": [
-                {"Label": "Web", "URL": "http://www.meetup.com/Leeds-Riak/"}
+                {"Label": "Web", "URL": "http://wypy.org.uk/"},
+                {"Label": "Twitter", "URL": "https://twitter.com/wypython", "LinkText": "@WYPython"}
             ]
         },
         {
-            "Name": "Leeds Hackspace",
-            "Description": "A Maker and Hacker Space in Leeds.",
+            "Name": "The Yorkshire Geek Alliance",
             "Links": [
-                {"Label": "Web", "URL": "http://leedshackspace.org.uk/"},
-                {"Label": "Twitter", "URL": "https://twitter.com/leedshackspace", "LinkText": "@leedshackspace"}
+                {"Label": "Web", "URL": "http://www.meetup.com/The-Yorkshire-Geek-Alliance/"}
             ]
         }
     ]
