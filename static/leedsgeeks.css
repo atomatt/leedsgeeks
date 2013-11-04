@@ -1,3 +1,37 @@
 body {
-    padding-top: 70px;
+    background-color: #fbfbfb;
+    padding-top: 30px;
+}
+
+.container {
+    white-space: collapse;
+}
+
+.group {
+    background-color: #ffffff;
+    border: 1px solid #f5f5f5;
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    padding: 19px;
+    vertical-align: top;
+    width: 367px;
+}
+
+.group-name {
+    font-size: inherit;
+    line-height: inherit;
+    font-weight: bold;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #f5f5f5;
+    margin-bottom: 20px;
+}
+
+.group-description {
+    font-style: italic;
+    color: #666;
+}
+
+.group .inner :first-child {
+    margin-top: 0;
 }
