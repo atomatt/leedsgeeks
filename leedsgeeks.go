@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
+	"html/template"
 	"net/http"
 	"os"
 )
@@ -11,6 +12,7 @@ import (
 var (
 	configFile = "leedsgeeks.json"
 	port       = flag.String("port", "5000", "http port")
+	templates  = template.Must(template.ParseGlob("templates/*.html"))
 )
 
 type Config struct {
@@ -18,22 +20,36 @@ type Config struct {
 }
 
 type Group struct {
-	Name string
+	Name  string
+	Links []Link
+}
+
+type Link struct {
+	Label    string
+	URL      string
+	LinkText string
 }
 
 func main() {
 	flag.Parse()
 	http.HandleFunc("/", index)
+	http.Handle("/_/", http.StripPrefix("/_/", http.FileServer(http.Dir("./static/"))))
 	http.ListenAndServe(":"+*port, nil)
 }
 
 func index(w http.ResponseWriter, r *http.Request) {
+
 	config, err := readConfig()
 	if err != nil {
 		http.Error(w, err.Error(), 500)
 		return
 	}
-	fmt.Fprintf(w, config.Groups[0].Name)
+
+	err = templates.ExecuteTemplate(w, "index.html", config)
+	if err != nil {
+		http.Error(w, err.Error(), 500)
+		return
+	}
 }
 
 func readConfig() (*Config, error) {

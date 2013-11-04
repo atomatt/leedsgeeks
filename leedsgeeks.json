@@ -1,7 +1,71 @@
 {
     "Groups": [
         {
-            "Name": "WYPy"
+            "Name": "Leeds JS",
+            "Links": [
+                {"Label": "Web", "URL": "http://leedsjs.org/"}
+            ]
+        },
+        {
+            "Name": "WYPy (Python)",
+            "Links": [
+                {"Label": "Web", "URL": "http://wypy.org.uk/"},
+                {"Label": "Twitter", "URL": "https://twitter.com/wypython", "LinkText": "@WYPython"}
+            ]
+        },
+        {
+            "Name": "Leeds PHP",
+            "Links": [
+                {"Label": "Web", "URL": "http://leedsphp.org/"}
+            ]
+        },
+        {
+            "Name": "Leeds Sharp",
+            "Links": [
+                {"Label": "Web", "URL": "http://www.leeds-sharp.org/"}
+            ]
+        },
+        {
+            "Name": "Agile Yorkshire",
+            "Links": [
+                {"Label": "Web", "URL": "http://www.agileyorkshire.org/"}
+            ]
+        },
+        {
+            "Name": "Leeds Data Thing",
+            "Links": [
+                {"Label": "Web", "URL": "http://www.leedsdatathing.co.uk/"}
+            ]
+        },
+        {
+            "Name": "Leeds DevOps",
+            "Links": [
+                {"Label": "Web", "URL": "http://www.leedsdevops.org.uk/"}
+            ]
+        },
+        {
+            "Name": "Leeds Girl Geeks",
+            "Links": [
+                {"Label": "Web", "URL": "http://girlgeek.lsx.co/"}
+            ]
+        },
+        {
+            "Name": "The Yorkshire Geek Alliance",
+            "Links": [
+                {"Label": "Web", "URL": "http://www.meetup.com/The-Yorkshire-Geek-Alliance/"}
+            ]
+        },
+        {
+            "Name": "GeekUp Leeds",
+            "Links": [
+                {"Label": "Web", "URL": "http://geekup.org/"}
+            ]
+        },
+        {
+            "Name": "NodeUpNorth",
+            "Links": [
+                {"Label": "Web", "URL": "http://www.nodeupnorth.co.uk/"}
+            ]
         }
     ]
 }

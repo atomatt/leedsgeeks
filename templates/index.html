@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Leeds Geeks</title>
+        <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.1/css/bootstrap.min.css" rel="stylesheet" />
+        <link rel="stylesheet" href="/_/leedsgeeks.css" />
+    </head>
+    <body>
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="/">Leeds Geeks</a>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            {{range .Groups}}
+            <div class="group">
+                <h1>{{.Name}}</h1>
+                {{range .Links}}
+                <p>{{.Label}}: <a href="{{.URL}}">{{if .LinkText}}{{.LinkText}}{{else}}{{.URL}}{{end}}</a></p>
+                {{end}}
+            </div>
+            {{end}}
+        </div>
+    </body>
+</html>
