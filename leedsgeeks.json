@@ -11,6 +11,15 @@
             ]
         },
         {
+            "Name": "Drupal Yorkshire",
+            "Description": "Bringing together people that are using Drupal at all levels, sharing knowledge and ideas.",
+            "Schedule": "2nd Tuesday of every month",
+            "Links": [
+                {"Label": "Web", "URL": "http://drupalyorkshire.org.uk/"},
+                {"Label": "Twitter", "URL": "https://twitter.com/DrupalYorkshire", "LinkText": "@DrupalYorkshire"}
+            ]
+        },
+        {
             "Name": "Leeds Data Thing",
             "Description": "Leeds Data Thing is a group for like-minded people working in Leeds to talk about data, network, share ideas, learn a few things and enjoy a beer or two!",
             "Links": [
