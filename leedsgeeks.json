@@ -11,12 +11,28 @@
             ]
         },
         {
+            "Name": "DigitaLeeds",
+            "Description": "digital stuff. in Leeds",
+            "Links": [
+                {"Label": "Web", "URL": "http://www.digitaleeds.com/"},
+                {"Label": "Twitter", "URL": "https://twitter.com/DigitaLeeds", "LinkText": "@DigitaLeeds"}
+            ]
+        },
+        {
             "Name": "Drupal Yorkshire",
             "Description": "Bringing together people that are using Drupal at all levels, sharing knowledge and ideas.",
             "Schedule": "2nd Tuesday of every month",
             "Links": [
                 {"Label": "Web", "URL": "http://drupalyorkshire.org.uk/"},
                 {"Label": "Twitter", "URL": "https://twitter.com/DrupalYorkshire", "LinkText": "@DrupalYorkshire"}
+            ]
+        },
+        {
+            "Name": "Hey!Stac",
+            "Description": "Talking design, business and tech.",
+            "Links": [
+                {"Label": "Web", "URL": "http://hey.wearestac.com/"},
+                {"Label": "Twitter", "URL": "https://twitter.com/hey_stac", "LinkText": "@hey_stac"}
             ]
         },
         {
