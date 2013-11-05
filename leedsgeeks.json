@@ -28,6 +28,14 @@
             ]
         },
         {
+            "Name": "Forefront Leeds",
+            "Description": "A community for Leeds based front-end devs and designers.",
+            "Links": [
+                {"Label": "Web", "URL": "http://forefront.cc/"},
+                {"Label": "Twitter", "URL": "https://twitter.com/forefrontleeds", "LinkText": "@forefrontleeds"}
+            ]
+        },
+        {
             "Name": "Hey!Stac",
             "Description": "Talking design, business and tech.",
             "Links": [
