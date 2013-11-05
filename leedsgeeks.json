@@ -85,6 +85,15 @@
             ]
         },
         {
+            "Name": "Leeds Meeples",
+            "Description": "Meetup to play very geeky board games in a relaxed, non-serious manner",
+            "Schedule": "Every now and then",
+            "Links": [
+                {"Label": "Web", "URL": "http://www.leedsmeeples.org.uk/"},
+                {"Label": "Twitter", "URL": "https://twitter.com/leedsmeeples", "LinkText": "@LeedsMeeples"}
+            ]
+        },
+        {
             "Name": "Leeds PHP",
             "Description": "A small bunch of passionate PHP Developers based in the Leeds and surrounding areas, who meet up once a month to discuss all things PHP.",
             "Schedule": "3rd Monday of every month",
