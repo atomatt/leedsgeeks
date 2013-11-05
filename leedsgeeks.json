@@ -30,6 +30,7 @@
         {
             "Name": "Leeds DevOps",
             "Description": "A hub for everyone who lives, breathes and occasionally sleeps DevOps in Leeds and the surrounding area.",
+            "Schedule": "2nd Tuesday of every month",
             "Links": [
                 {"Label": "Web", "URL": "http://www.leedsdevops.org.uk/"},
                 {"Label": "Twitter", "URL": "http://twitter.com/@leedsdevops", "LinkText": "@leedsdevops"}
