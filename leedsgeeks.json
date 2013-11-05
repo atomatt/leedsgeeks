@@ -74,6 +74,15 @@
             ]
         },
         {
+            "Name": "Leeds Ruby Thing",
+            "Description": "Leeds Ruby Thing is a regular informal social event for anyone interested in the Ruby programming language. You don't have to be an expert in Ruby - we're just a friendly bunch who enjoy beer and geeky chat.",
+            "Schedule": "Last Thursday of the month",
+            "Links": [
+                {"Label": "Web", "URL": "http://leedsrubything.org/"},
+                {"Label": "Twitter", "URL": "https://twitter.com/LeedsRubyThing", "LinkText": "@LeedsRubyThing"}
+            ]
+        },
+        {
             "Name": "Leeds Sharp",
             "Description": "A code club for developers using Microsoft technologies.",
             "Schedule": "Last thursday of the month",
