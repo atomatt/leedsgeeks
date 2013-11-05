@@ -38,7 +38,8 @@
         {
             "Name": "Leeds Girl Geeks",
             "Links": [
-                {"Label": "Web", "URL": "http://girlgeek.lsx.co/"}
+                {"Label": "Web", "URL": "http://girlgeek.lsx.co/"},
+                {"Label": "Twitter", "URL": "https://twitter.com/leedsgirlgeeks", "LinkText": "@leedsgirlgeeks"}
             ]
         },
         {
@@ -54,7 +55,8 @@
             "Schedule": "2nd Wednesday of every month",
             "Description": "JavaScript user group in the Leeds, West Yorkshire area.",
             "Links": [
-                {"Label": "Web", "URL": "http://leedsjs.org/"}
+                {"Label": "Web", "URL": "http://leedsjs.org/"},
+                {"Label": "Twitter", "URL": "https://twitter.com/leedsjs", "LinkText": "@leedsjs"}
             ]
         },
         {
@@ -87,7 +89,8 @@
             "Description": "A code club for developers using Microsoft technologies.",
             "Schedule": "Last thursday of the month",
             "Links": [
-                {"Label": "Web", "URL": "http://www.leeds-sharp.org/"}
+                {"Label": "Web", "URL": "http://www.leeds-sharp.org/"},
+                {"Label": "Twitter", "URL": "https://twitter.com/LeedsSharp", "LinkText": "@LeedsSharp"}
             ]
         },
         {
@@ -95,7 +98,8 @@
             "Description": "Home of a Node.js user group that meets in Leeds.",
             "Schedule": "Last Wednesday of every month",
             "Links": [
-                {"Label": "Web", "URL": "http://www.nodeupnorth.co.uk/"}
+                {"Label": "Web", "URL": "http://www.nodeupnorth.co.uk/"},
+                {"Label": "Twitter", "URL": "https://twitter.com/NodeUpNorth", "LinkText": "@NodeUpNorth"}
             ]
         },
         {
