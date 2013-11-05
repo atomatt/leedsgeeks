@@ -15,15 +15,17 @@ Most of the time it's just a matter of updating the `Groups` list in
 Each item is a JSON object containing Name, Description, Schedule and Links
 attributes, e.g.
 
-    {
-        "Name": "Geeks Against February",
-        "Description": "A groups for geeks who can only handle February every few years.",
-        "Schedule": "29th of the every month",
-        "Links": [
-            {"Label": "Web", "URL": "http://example.com/"},
-            {"Label": "Twitter", "URL": "https://twitter.com/FebGeeks", "LinkText": "@FebGeeks"}
-        ]
-    }
+```json
+{
+    "Name": "Geeks Against February",
+    "Description": "A groups for geeks who can only handle February every few years.",
+    "Schedule": "29th of the every month",
+    "Links": [
+        {"Label": "Web", "URL": "http://example.com/"},
+        {"Label": "Twitter", "URL": "https://twitter.com/FebGeeks", "LinkText": "@FebGeeks"}
+    ]
+}
+```
 
 Only the Name is required. Most things are deliberately left relatively free-form.
 
