@@ -11,13 +11,6 @@
             ]
         },
         {
-            "Name": "GeekUp Leeds",
-            "Description": "A grassroots knowledge sharing and networking social for folks involved or interested in the web and technology industry.",
-            "Links": [
-                {"Label": "Web", "URL": "http://geekup.org/"}
-            ]
-        },
-        {
             "Name": "Leeds Data Thing",
             "Description": "Leeds Data Thing is a group for like-minded people working in Leeds to talk about data, network, share ideas, learn a few things and enjoy a beer or two!",
             "Links": [
