@@ -4,12 +4,15 @@
     "Groups": [
         {
             "Name": "Agile Yorkshire",
+            "Schedule": "2nd Tuesday of every month",
             "Links": [
-                {"Label": "Web", "URL": "http://www.agileyorkshire.org/"}
+                {"Label": "Web", "URL": "http://www.agileyorkshire.org/"},
+                {"Label": "Twitter", "URL": "http://www.twitter.com/agileyorkshire", "LinkText": "@agileyorkshire"}
             ]
         },
         {
             "Name": "GeekUp Leeds",
+            "Description": "A grassroots knowledge sharing and networking social for folks involved or interested in the web and technology industry.",
             "Links": [
                 {"Label": "Web", "URL": "http://geekup.org/"}
             ]
@@ -46,6 +49,7 @@
         },
         {
             "Name": "Leeds JS",
+            "Schedule": "2nd Wednesday of every month",
             "Description": "JavaScript user group in the Leeds, West Yorkshire area.",
             "Links": [
                 {"Label": "Web", "URL": "http://leedsjs.org/"}
@@ -54,6 +58,7 @@
         {
             "Name": "Leeds PHP",
             "Description": "A small bunch of passionate PHP Developers based in the Leeds and surrounding areas, who meet up once a month to discuss all things PHP.",
+            "Schedule": "3rd Monday of every month",
             "Links": [
                 {"Label": "Web", "URL": "http://leedsphp.org/"},
                 {"Label": "Twitter", "URL": "https://twitter.com/leedsphp", "LinkText": "@leedsphp"}
@@ -85,7 +90,7 @@
         {
             "Name": "West Yorkshire Python User Group",
             "Description": "The West Yorkshire Python User Group (WYPy) have been meeting monthly since 2007. Our meetings are free, and usually include at least one talk, as well as a trip to the pub.",
-            "Schedule": "Second Thursday of every month",
+            "Schedule": "2nd Thursday of every month",
             "Links": [
                 {"Label": "Web", "URL": "http://wypy.org.uk/"},
                 {"Label": "Twitter", "URL": "https://twitter.com/wypython", "LinkText": "@WYPython"}
