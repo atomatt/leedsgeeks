@@ -144,6 +144,14 @@
             ]
         },
         {
+            "Name": "The West Yorkshire Gnu/Linux Users' Group (WYLUG)",
+            "Description": "A self-help group for GNU/Linux and Free / Open Source Software users in the West Yorkshire area",
+            "Links": [
+                {"Label": "Web", "URL": "http://www.wylug.org.uk/"},
+                {"Label": "Twitter", "URL": "https://twitter.com/wylug", "LinkText": "@wylug"}
+            ]
+        },
+        {
             "Name": "West Yorkshire Python User Group (WYPy)",
             "Description": "The West Yorkshire Python User Group (WYPy) have been meeting monthly since 2007. Our meetings are free, and usually include at least one talk, as well as a trip to the pub.",
             "Schedule": "2nd Thursday of every month",
