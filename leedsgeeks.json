@@ -4,6 +4,7 @@
     "Groups": [
         {
             "Name": "Agile Yorkshire",
+            "Description": "Exists to make our region a fantastic place to build software. The agile movement is changing the way businesses think and our community is a participant in that process.  We are champions of no nonsense software delivery.",
             "Schedule": "2nd Tuesday of every month",
             "Links": [
                 {"Label": "Web", "URL": "http://www.agileyorkshire.org/"},
