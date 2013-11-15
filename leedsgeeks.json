@@ -128,6 +128,13 @@
             ]
         },
         {
+            "Name": "Leeds Tester Gathering",
+            "Description": "A community event run for testers by testers.",
+            "Links": [
+                {"Label": "Web", "URL": "http://www.linkedin.com/groups/Leeds-Tester-Gathering-3862901"}
+            ]
+        },
+        {
             "Name": "NodeUpNorth",
             "Description": "Home of a Node.js user group that meets in Leeds.",
             "Schedule": "Last Wednesday of every month",
