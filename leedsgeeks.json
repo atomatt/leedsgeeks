@@ -86,6 +86,14 @@
             ]
         },
         {
+            "Name": "Leeds Lady Geeks",
+            "Schedule": "3rd Wednesday of every month",
+            "Description": "Talks, workshops, networking, and socialising for women developers, coders, hackers, designers, makers, and digital media enthusiasts. (Or those who want to be one!) This group will be a casual monthly meet-up for women in tech in Leeds to share knowledge, build skills and meet people. All skill levels are welcome, from beginner or amateur to professional.",
+            "Links": [
+                {"Label": "Web", "URL": "http://www.meetup.com/Leeds-Lady-Geeks/"}
+            ]
+        },
+        {
             "Name": "Leeds Meeples",
             "Description": "Meetup to play very geeky board games in a relaxed, non-serious manner.",
             "Schedule": "Every now and then",
