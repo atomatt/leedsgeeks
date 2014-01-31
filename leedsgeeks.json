@@ -137,6 +137,15 @@
             ]
         },
         {
+            "Name": "Lean Startup Yorks.",
+            "Description": "Lean Startup Yorkshire community provides a meeting place to learn, network and explore Yorkshire startup community.",
+            "Schedule": "",
+            "Links": [
+                {"Label": "Web", "URL": "http://www.eventbrite.co.uk/o/lean-startup-yorkshire-5964302901"},
+                {"Label": "Twitter", "URL": "https://twitter.com/LeanStartupYks", "LinkText": "@LeanStartupYks"}
+            ]
+        },
+        {
             "Name": "Leeds Tester Gathering",
             "Description": "A community event run for testers by testers.",
             "Links": [
