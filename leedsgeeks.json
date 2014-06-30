@@ -45,6 +45,14 @@
             ]
         },
         {
+            "Name": "Leeds Code Dojo",
+            "Description": "Leeds Code Dojo is a group dedicated to programming. We focus on practical coding sessions, where you can learn by doing.",
+            "Links": [
+                {"Label": "Web", "URL": "http://leedscodedojo.github.io/"},
+                {"Label": "Twitter", "URL": "https://twitter.com/LeedsCodeDojo", "LinkText": "@LeedsCodeDojo"}
+            ]
+        },
+        {
             "Name": "Leeds Data Thing",
             "Description": "Leeds Data Thing is a group for like-minded people working in Leeds to talk about data, network, share ideas, learn a few things and enjoy a beer or two!",
             "Links": [
