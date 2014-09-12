@@ -111,6 +111,15 @@
             ]
         },
         {
+            "Name": "Leeds Netrunner",
+            "Description": "A Netrunner group in Leeds for casual play of all abilities. If you would like to learn the game just come along and someone will gladly teach you how to play. We meet at Veritas on Great George Street, starting at 18.30 and play until closing.",
+            "Schedule": "Every other Monday",
+            "Links": [
+                {"Label": "Facebook", "URL": "https://www.facebook.com/groups/leedsnetrunner/", "LinkText": "Leeds Netrunner Group"},
+                {"Label": "Twitter", "URL": "https://twitter.com/LeedsNetrunner", "LinkText": "@LeedsNetrunner"}
+            ]
+        },
+        {
             "Name": "Leeds PHP",
             "Description": "A small bunch of passionate PHP Developers based in the Leeds and surrounding areas, who meet up once a month to discuss all things PHP.",
             "Schedule": "3rd Monday of every month",
