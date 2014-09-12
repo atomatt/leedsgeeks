@@ -23,11 +23,11 @@
                         <div class="header">
                             <h1 class="group-name">{{.Name}}</h1>
                             {{if .Schedule}}
-                            <p class="group-schedule">{{.Schedule}}
+                            <p class="group-schedule">{{.Schedule}}</p>
                             {{end}}
                         </div>
                         {{if .Description}}
-                        <p class="group-description">{{.Description}}
+                        <p class="group-description">{{.Description}}</p>
                         {{end}}
                         {{range .Links}}
                         <p class="group-link">{{.Label}}: <a href="{{.URL}}">{{if .LinkText}}{{.LinkText}}{{else}}{{.URL}}{{end}}</a></p>
