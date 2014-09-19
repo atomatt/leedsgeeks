@@ -170,6 +170,15 @@
             ]
         },
         {
+            "Name": "Leeds Werewolves",
+            "Description": "Social Paranoia Gaming Group",
+            "Schedule": "First Wednesday of every month",
+            "Links": [
+                {"Label": "Web", "URL": "http://www.leedswerewolves.info"},
+                {"Label": "Twitter", "URL": "https://twitter.com/leedswerewolves", "LinkText": "@leedswerewolves"}
+            ]
+        },
+        {
             "Name": "NodeUpNorth",
             "Description": "Home of a Node.js user group that meets in Leeds.",
             "Schedule": "Last Wednesday of every month",
