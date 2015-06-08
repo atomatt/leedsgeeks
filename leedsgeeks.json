@@ -111,9 +111,27 @@
             ]
         },
         {
+            "Name": "Leeds Gaming",
+            "Description": "Leeds Gaming is a collaborative group that runs board, card and other gaming events in Leeds, West Yorkshire in the United Kingdom.",
+            "Schedule": "Every 2nd Sunday, and one Monday a month",
+            "Links": [
+                {"Label": "Web", "URL": "http://www.leedsgaming.org.uk", "LinkText": "Leeds Gaming"},
+                {"Label": "Twitter", "URL": "https://twitter.com/leedsgaming", "LinkText": "@leedsgaming"}
+            ]
+        },
+        {
+            "Name": "Leeds Werewolves",
+            "Description": "Leeds Werewolves play paranoia styled games such as Werewolves (various versions such as One Night Ultimate Werewolf, Werewolves of Millers Hollow and MultiWolves), The Thing and Two Rooms and a Boom!",
+            "Schedule": "Every 1st Wednesday",
+            "Links": [
+                {"Label": "Web", "URL": "http://www.leedswerewolves.info/", "LinkText": "Leeds Werewolves"},
+                {"Label": "Twitter", "URL": "https://twitter.com/leedswerewolves", "LinkText": "@leedswerewolves"}
+            ]
+        },
+        {
             "Name": "Leeds Netrunner",
             "Description": "A Netrunner group in Leeds for casual play of all abilities. If you would like to learn the game just come along and someone will gladly teach you how to play. We meet at Veritas on Great George Street, starting at 18.30 and play until closing.",
-            "Schedule": "Every other Monday",
+            "Schedule": "4-week cycle: 1st week Monday, 2nd week Tuesday, 3rd week Monday, 4th week Wednesday",
             "Links": [
                 {"Label": "Facebook", "URL": "https://www.facebook.com/groups/leedsnetrunner/", "LinkText": "Leeds Netrunner Group"},
                 {"Label": "Twitter", "URL": "https://twitter.com/LeedsNetrunner", "LinkText": "@LeedsNetrunner"}
