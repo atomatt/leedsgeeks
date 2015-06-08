@@ -70,6 +70,15 @@
             ]
         },
         {
+            "Name": "Leeds Gaming",
+            "Description": "Leeds Gaming is a collaborative group that runs board, card and other gaming events in Leeds, West Yorkshire in the United Kingdom.",
+            "Schedule": "Every 2nd Sunday, and one Monday a month",
+            "Links": [
+                {"Label": "Web", "URL": "http://www.leedsgaming.org.uk", "LinkText": "Leeds Gaming"},
+                {"Label": "Twitter", "URL": "https://twitter.com/leedsgaming", "LinkText": "@leedsgaming"}
+            ]
+        },
+        {
             "Name": "Leeds Girl Geeks",
             "Links": [
                 {"Label": "Web", "URL": "http://girlgeek.lsx.co/"},
@@ -108,24 +117,6 @@
             "Links": [
                 {"Label": "Web", "URL": "http://www.leedsmeeples.org.uk/"},
                 {"Label": "Twitter", "URL": "https://twitter.com/leedsmeeples", "LinkText": "@LeedsMeeples"}
-            ]
-        },
-        {
-            "Name": "Leeds Gaming",
-            "Description": "Leeds Gaming is a collaborative group that runs board, card and other gaming events in Leeds, West Yorkshire in the United Kingdom.",
-            "Schedule": "Every 2nd Sunday, and one Monday a month",
-            "Links": [
-                {"Label": "Web", "URL": "http://www.leedsgaming.org.uk", "LinkText": "Leeds Gaming"},
-                {"Label": "Twitter", "URL": "https://twitter.com/leedsgaming", "LinkText": "@leedsgaming"}
-            ]
-        },
-        {
-            "Name": "Leeds Werewolves",
-            "Description": "Leeds Werewolves play paranoia styled games such as Werewolves (various versions such as One Night Ultimate Werewolf, Werewolves of Millers Hollow and MultiWolves), The Thing and Two Rooms and a Boom!",
-            "Schedule": "Every 1st Wednesday",
-            "Links": [
-                {"Label": "Web", "URL": "http://www.leedswerewolves.info/", "LinkText": "Leeds Werewolves"},
-                {"Label": "Twitter", "URL": "https://twitter.com/leedswerewolves", "LinkText": "@leedswerewolves"}
             ]
         },
         {
@@ -185,6 +176,15 @@
             "Description": "A community event run for testers by testers.",
             "Links": [
                 {"Label": "Web", "URL": "http://www.linkedin.com/groups/Leeds-Tester-Gathering-3862901"}
+            ]
+        },
+        {
+            "Name": "Leeds Werewolves",
+            "Description": "Leeds Werewolves play paranoia styled games such as Werewolves (various versions such as One Night Ultimate Werewolf, Werewolves of Millers Hollow and MultiWolves), The Thing and Two Rooms and a Boom!",
+            "Schedule": "Every 1st Wednesday",
+            "Links": [
+                {"Label": "Web", "URL": "http://www.leedswerewolves.info/", "LinkText": "Leeds Werewolves"},
+                {"Label": "Twitter", "URL": "https://twitter.com/leedswerewolves", "LinkText": "@leedswerewolves"}
             ]
         },
         {
