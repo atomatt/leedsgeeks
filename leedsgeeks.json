@@ -188,6 +188,14 @@
             ]
         },
         {
+            "Name": "LeedsTechHub",
+            "Description": "LeedsTechHub is an event series and meetup community welcoming all those from a digital discipline and those wanting to learn more or build networks with those within the industry.",
+            "Schedule": "1-2 times a month, usually on a Thursday evening",
+            "Links": [
+                {"Label": "Eventbrite", "URL": "https://www.eventbrite.co.uk/e/leedstechhub-mobile-tickets-17541526177", "LinkText": "LeedsTechHub: Mobile"}
+            ]
+        },
+        {
             "Name": "NodeUpNorth",
             "Description": "Home of a Node.js user group that meets in Leeds.",
             "Schedule": "Last Wednesday of every month",
