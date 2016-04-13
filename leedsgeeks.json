@@ -3,6 +3,15 @@
     "RepositoryURL": "http://github.com/emgee/leedsgeeks",
     "Groups": [
         {
+            "Name": "Leeds Algorave",
+            "Description": "Live coded dance music in ODI Leeds",
+            "Schedule": "29th April 2016",
+            "Links": [
+                {"Label": "Web", "URL": "https://www.facebook.com/events/474575039400551/"},
+                {"Label": "Twitter", "URL": "https://twitter.com/algorave", "LinkText": "@algorave"}
+            ]
+        },
+        {
             "Name": "Agile Yorkshire",
             "Description": "Exists to make our region a fantastic place to build software. The agile movement is changing the way businesses think and our community is a participant in that process.  We are champions of no nonsense software delivery.",
             "Schedule": "2nd Tuesday of every month",
