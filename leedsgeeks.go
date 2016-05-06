@@ -11,7 +11,6 @@ import (
 
 var (
 	configFile = "leedsgeeks.json"
-	port       = flag.String("port", "5000", "http port")
 	templates  = template.Must(template.ParseGlob("templates/*.html"))
 )
 
@@ -35,7 +34,9 @@ type Link struct {
 }
 
 func main() {
+	port := flag.String("port", "5000", "http port")
 	flag.Parse()
+
 	http.HandleFunc("/", index)
 	http.Handle("/_/", http.StripPrefix("/_/", http.FileServer(http.Dir("./static/"))))
 	http.ListenAndServe(":"+*port, nil)
