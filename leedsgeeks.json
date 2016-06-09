@@ -49,7 +49,8 @@
             "Schedule": "Monthly",
             "Description": "Ladies of Code is a community of professional women developers. We get together to discuss code and other geeky stuff, and hear talks from leaders in the field.",
             "Links": [
-                {"Label": "Web", "URL": "http://www.meetup.com/Ladies-of-Code-Leeds/"}
+                {"Label": "Web", "URL": "http://www.meetup.com/Ladies-of-Code-Leeds/"},
+                {"Label": "Twitter", "URL": "https://twitter.com/ladiesofcode", "LinkText": "@ladiesofcode"}
             ]
         },
         {
