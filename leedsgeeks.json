@@ -45,6 +45,14 @@
             ]
         },
         {
+            "Name": "Ladies of Code (Leeds)",
+            "Schedule": "Monthly",
+            "Description": "Ladies of Code is a community of professional women developers. We get together to discuss code and other geeky stuff, and hear talks from leaders in the field.",
+            "Links": [
+                {"Label": "Web", "URL": "http://www.meetup.com/Ladies-of-Code-Leeds/"}
+            ]
+        },
+        {
             "Name": "Leeds Code Dojo",
             "Description": "Leeds Code Dojo is a group dedicated to programming. We focus on practical coding sessions, where you can learn by doing.",
             "Links": [
