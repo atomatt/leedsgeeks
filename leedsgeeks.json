@@ -12,6 +12,13 @@
             ]
         },
         {
+            "Name": "Code & Coffee (Leeds)",
+            "Description": "Code & Coffee is an informal get together where you can meet up with other developers and write some code, talk tech, or just enjoy the coffee! There are no requirements other than the willingness to sit down and learn something new.",
+            "Links": [
+                {"Label": "Web", "URL": "http://www.meetup.com/code-coffee-leeds/"}
+            ]
+        },
+        {
             "Name": "DigitaLeeds",
             "Description": "digital stuff. in Leeds",
             "Links": [
