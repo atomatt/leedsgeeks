@@ -238,6 +238,16 @@
             ]
         },
         {
+            "Name": "WordPress Leeds (wpleeds)",
+            "Description": "A meetup for WordPress users and developers of all levels. Our events usually have a speaker and open discussions.",
+            "Schedule": "4th Tuesday of every month",
+            "Links": [
+                {"Label": "Web", "URL": "https://wpleeds.co.uk/"},
+                {"Label": "Meetup", "URL": "http://www.meetup.com/WordPress-Leeds/"},
+                {"Label": "Twitter", "URL": "https://twitter.com/wpleeds", "LinkText": "@WPLeeds"}
+            ]
+        },
+        {
             "Name": "The Yorkshire Geek Alliance",
             "Links": [
                 {"Label": "Web", "URL": "http://www.meetup.com/The-Yorkshire-Geek-Alliance/"}
