@@ -19,14 +19,6 @@
             ]
         },
         {
-            "Name": "Data Yak Leeds",
-            "Description": "Data Yak is a monthly Leeds meet up for data science, analytics and data visualisation professionals and enthusiasts. The meet up aims to bring people together to share knowledge, network and innovate and build the data community in Leeds and the surrounding area.",
-            "Links": [
-                {"Label": "Web", "URL": "http://www.datayak.org/"},
-                {"Label": "Twitter", "URL": "https://twitter.com/datayakleeds", "LinkText": "@datayakleeds"}
-            ]
-        },
-        {
             "Name": "DigitaLeeds",
             "Description": "digital stuff. in Leeds",
             "Links": [
