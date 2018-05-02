@@ -47,7 +47,7 @@
             "Name": "Hey!Stac",
             "Description": "Talking design, business and tech.",
             "Links": [
-                {"Label": "Web", "URL": "http://hey.wearestac.com/"},
+                {"Label": "Web", "URL": "https://heyst.ac/"},
                 {"Label": "Twitter", "URL": "https://twitter.com/hey_stac", "LinkText": "@hey_stac"}
             ]
         },
