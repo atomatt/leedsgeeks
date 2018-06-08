@@ -238,13 +238,19 @@
             ]
         },
         {
-            "Name": "WordPress Leeds (wpleeds)",
-            "Description": "A meetup for WordPress users and developers of all levels. Our events usually have a speaker and open discussions.",
-            "Schedule": "4th Tuesday of every month",
+            "Name": "Write the Docs North",
+            "Description": "Write the Docs is a global community of people who care about documentation – programmers, tech writers, developer advocates, customer support, marketers, and anyone else who wants people to have great experiences with software.",
             "Links": [
-                {"Label": "Web", "URL": "https://wpleeds.co.uk/"},
-                {"Label": "Meetup", "URL": "http://www.meetup.com/WordPress-Leeds/"},
-                {"Label": "Twitter", "URL": "https://twitter.com/wpleeds", "LinkText": "@WPLeeds"}
+                {"Label": "Web", "URL": "https://www.meetup.com/Write-the-Docs-North/"}
+            ]
+        },
+        {
+            "Name": "West Yorkshire Python User Group (WYPy)",
+            "Description": "The West Yorkshire Python User Group (WYPy) have been meeting monthly since 2007. Our meetings are free, and usually include at least one talk, as well as a trip to the pub.",
+            "Schedule": "2nd Thursday of every month",
+            "Links": [
+                {"Label": "Web", "URL": "http://wypy.org.uk/"},
+                {"Label": "Twitter", "URL": "https://twitter.com/wypython", "LinkText": "@WYPython"}
             ]
         },
         {
