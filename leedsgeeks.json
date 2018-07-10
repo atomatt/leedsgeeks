@@ -69,6 +69,13 @@
             ]
         },
         {
+            "Name": "Leeds Data Science Meetup",
+            "Description": "Meet with students, scientists, engineers, and entrepreneurs who are interested all things Data Science related!",
+            "Links": [
+                {"Label": "Web", "URL": "https://www.meetup.com/Leeds-Data-Science-Meetup/"}
+            ]
+        },
+        {
             "Name": "Leeds Data Thing",
             "Description": "Leeds Data Thing is a group for like-minded people working in Leeds to talk about data, network, share ideas, learn a few things and enjoy a beer or two!",
             "Links": [
