@@ -221,6 +221,15 @@
             ]
         },
         {
+            "Name": "The JVM Thing",
+            "Description": "A meet-up for the JVM language community. Covering topics accross all JVM related technologies and welcoming participants from any background regardless of experience. Our only pre-requisite is you have a passion and enthusiasm for software development and all things JVM related :)",
+            "Schedule": "Quarterly",
+            "Links": [
+                {"Label": "Web", "URL": "https://www.meetup.com/Leeds-JVMThing/"},
+                {"Label": "Twitter", "URL": "https://twitter.com/The_JVM_Thing", "LinkText": "@The_JVM_Thing"}
+            ]
+        },
+        {
             "Name": "The West Yorkshire Gnu/Linux Users' Group (WYLUG)",
             "Description": "A self-help group for GNU/Linux and Free / Open Source Software users in the West Yorkshire area",
             "Links": [
