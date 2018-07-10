@@ -19,6 +19,15 @@
             ]
         },
         {
+            "Name": "CodeUp Leeds",
+            "Description": "CodeUp is a learner led monthly meetup for adults learning how to code. You tell us what you need support with, and we will do our best to help.",
+            "Links": [
+                {"Label": "Web", "URL": "https://codeupleeds.github.io/"},
+                {"Label": "Web", "URL": "https://www.meetup.com/CodeUp-Leeds/"},
+                {"Label": "Twitter", "URL": "https://twitter.com/CodeUpUK", "LinkText": "@CodeUpUK"}
+            ]
+        },
+        {
             "Name": "DigitaLeeds",
             "Description": "digital stuff. in Leeds",
             "Links": [
