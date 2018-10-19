@@ -78,6 +78,15 @@
             ]
         },
         {
+            "Name": "Leeds Data Platform User Group",
+            "Description": "A group for anyone interested in learning more and / or sharing their knowledge of the Microsoft Data Platform. All skill levels are welcome. Topics and technologies will be varied but along the lines of SQL Server, SSIS, SSAS, Power BI, Azure DB, Azure automation, Azure SQL Data Warehouse, SQL Server on Linux and containers",
+            "Links": [
+                {"Label": "Web", "URL": "https://www.meetup.com/leeds_data_platform/"},
+                {"Label": "Twitter", "URL": "https://twitter.com/leedsdata", "LinkText": "@leedsdata"},
+                {"Label": "Facebook", "URL": "https://www.facebook.com/LeedsData/", "LinkText": "Leeds Data Platform User Group"}
+            ]
+        },
+        {
             "Name": "Leeds Data Science Meetup",
             "Description": "Meet with students, scientists, engineers, and entrepreneurs who are interested all things Data Science related!",
             "Links": [
