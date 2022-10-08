@@ -1,17 +1,23 @@
 package main // import "github.com/emgee/leedsgeeks"
 
 import (
+	"embed"
 	"encoding/json"
-	"flag"
 	"fmt"
 	"html/template"
+	"io/fs"
 	"net/http"
 	"os"
 )
 
 var (
+	//go:embed leedsgeeks.json
+	//go:embed static/*
+	//go:embed templates/*
+	embedFS embed.FS
+
 	configFile = "leedsgeeks.json"
-	templates  = template.Must(template.ParseGlob("templates/*.html"))
+	templates  = template.Must(template.ParseFS(embedFS, "templates/*.html"))
 )
 
 type Config struct {
@@ -34,12 +40,17 @@ type Link struct {
 }
 
 func main() {
-	port := flag.String("port", "5000", "http port")
-	flag.Parse()
+	port := os.Getenv("PORT")
+	if port == "" {
+		port = "5000"
+	}
+
+	staticFS, _ := fs.Sub(embedFS, "static")
 
 	http.HandleFunc("/", index)
-	http.Handle("/_/", http.StripPrefix("/_/", http.FileServer(http.Dir("./static/"))))
-	http.ListenAndServe(":"+*port, nil)
+	http.Handle("/_/", http.StripPrefix("/_/", http.FileServer(http.FS(staticFS))))
+
+	http.ListenAndServe(":"+port, nil)
 }
 
 func index(w http.ResponseWriter, r *http.Request) {
@@ -59,7 +70,7 @@ func index(w http.ResponseWriter, r *http.Request) {
 
 func readConfig() (*Config, error) {
 
-	f, err := os.Open(configFile)
+	f, err := embedFS.Open(configFile)
 	if err != nil {
 		return nil, fmt.Errorf("%s not found", configFile)
 	}
